@@ -1,1 +1,18 @@
+win_event*.txt
+rhino.local.properties
+resourcepacks/Quark Programmer Art.zip
+options.txt
+logs/**
+local/ftbquests/client-config.snbt
+local/ftblibrary-client.snbt
+local/ftbchunks/client-config.snbt
+local/crash_assistant
+journeymap/journeymap.log
+journeymap/config
+config/ftbxmodcompat.snbt
+blueprints/**
+.qmenu_opened.marker
+.mixin.out/**
 .curseclient
+.cache/**
+!logs/modlist.txt

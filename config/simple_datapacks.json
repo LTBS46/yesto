@@ -1,0 +1,9 @@
+{
+  "copyDatapacks": false,
+  "showFeatures": true,
+  "globalDatapacks": false,
+  "datapacksPaths": [
+    "datapacks",
+    "C:\\Users\\bibi\\Downloads"
+  ]
+}
