@@ -16,4 +16,12 @@ blueprints/**
 .mixin.out/**
 .curseclient
 .cache/**
-
+kubejs/README.txt
+config/bettercaves/forge-1_20_1/README.txt
+config/bettercaves/README.txt
+config/betterdeserttemples/forge-1_20/README.txt
+config/betterdeserttemples/README.txt
+config/betterfortresses/forge-1_20/README.txt
+config/betterfortresses/README.txt
+config/betterstrongholds/forge-1_20/README.txt
+config/betterstrongholds/README.txt
