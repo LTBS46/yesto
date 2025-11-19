@@ -3,6 +3,7 @@ rhino.local.properties
 resourcepacks/Quark Programmer Art.zip
 options.txt
 logs/**
+local/kubejs/dev.properties
 local/ftbquests/client-config.snbt
 local/ftblibrary-client.snbt
 local/ftbchunks/client-config.snbt
@@ -15,4 +16,4 @@ blueprints/**
 .mixin.out/**
 .curseclient
 .cache/**
-!logs/modlist.txt
+
