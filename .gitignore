@@ -44,3 +44,4 @@ ESM/*
 .curseclient
 .cache/**
 !ESM/soundsMuffled.dat
+modernfix/structureCacheV1
