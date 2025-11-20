@@ -14,6 +14,7 @@ local/kubejs/dev.properties
 local/ftbultimine-client.snbt
 local/ftbquests/client-config.snbt
 local/ftblibrary-client.snbt
+local/ftbchunks/data
 local/ftbchunks/client-config.snbt
 local/crash_assistant
 kubejs/README.txt
@@ -21,7 +22,9 @@ journeymap/server
 journeymap/journeymap.log
 journeymap/data/sp
 journeymap/config
+emi.json
 config/xaeropatreon.txt
+config/voicechat/username-cache.json
 config/ftbxmodcompat.snbt
 config/crash_assistant/crash_assistant_localization_overrides/README.md
 config/betterstrongholds/forge-1_20/README.txt
@@ -34,11 +37,10 @@ config/bettercaves/forge-1_20_1/README.txt
 config/bettercaves/README.txt
 config/NoChatReports/README.md
 blueprints/**
+TrashSlotSaveState.json
 ESM/*
 .qmenu_opened.marker
 .mixin.out/**
 .curseclient
 .cache/**
 !ESM/soundsMuffled.dat
-config/voicechat/username-cache.json
-local/ftbchunks/data
