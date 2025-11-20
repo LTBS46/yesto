@@ -214,10 +214,10 @@
     "modId": "alexsmobs",
     "version": "1.22.9"
   },
-  "alltheleaks-1.1.0+1.20.1-forge.jar": {
-    "jarName": "alltheleaks-1.1.0+1.20.1-forge.jar",
+  "alltheleaks-1.1.1+1.20.1-forge.jar": {
+    "jarName": "alltheleaks-1.1.1+1.20.1-forge.jar",
     "modId": "alltheleaks",
-    "version": "1.1.0+1.20.1-forge"
+    "version": "1.1.1+1.20.1-forge"
   },
   "almostunified-forge-1.20.1-0.10.1.jar": {
     "jarName": "almostunified-forge-1.20.1-0.10.1.jar",
@@ -309,10 +309,10 @@
     "modId": "appflux",
     "version": "1.20-1.3.4-forge"
   },
-  "appliedpneumatics-1.0.4-1.20.1.jar": {
-    "jarName": "appliedpneumatics-1.0.4-1.20.1.jar",
+  "appliedpneumatics-1.0.5-1.20.1.jar": {
+    "jarName": "appliedpneumatics-1.0.5-1.20.1.jar",
     "modId": "appliedpneumatics",
-    "version": "1.0.4"
+    "version": "1.0.5"
   },
   "appliedschematicannon-1.0.1.jar": {
     "jarName": "appliedschematicannon-1.0.1.jar",
@@ -1816,10 +1816,10 @@
     "modId": "integratedcrafting",
     "version": "1.3.2"
   },
-  "IntegratedDynamics-1.20.1-1.29.2.jar": {
-    "jarName": "IntegratedDynamics-1.20.1-1.29.2.jar",
+  "IntegratedDynamics-1.20.1-1.29.3.jar": {
+    "jarName": "IntegratedDynamics-1.20.1-1.29.3.jar",
     "modId": "integrateddynamics",
-    "version": "1.29.2"
+    "version": "1.29.3"
   },
   "IntegratedMekanism-1.20.1-1.0.2.jar": {
     "jarName": "IntegratedMekanism-1.20.1-1.0.2.jar",
@@ -2152,6 +2152,11 @@
   "lootintegrations_structory-1.3.jar": {
     "jarName": "lootintegrations_structory-1.3.jar",
     "modId": "lootintegrations_structory",
+    "version": "1"
+  },
+  "lootintegrations_vanilla-1.4.jar": {
+    "jarName": "lootintegrations_vanilla-1.4.jar",
+    "modId": "lootintegrations_vanilla",
     "version": "1"
   },
   "lootintegrations_yungs-1.4.jar": {
@@ -3447,10 +3452,10 @@
     "modId": "trashslot",
     "version": "15.1.2"
   },
-  "travelersbackpack-forge-1.20.1-9.1.45.jar": {
-    "jarName": "travelersbackpack-forge-1.20.1-9.1.45.jar",
+  "travelersbackpack-forge-1.20.1-9.1.46.jar": {
+    "jarName": "travelersbackpack-forge-1.20.1-9.1.46.jar",
     "modId": "travelersbackpack",
-    "version": "9.1.45"
+    "version": "9.1.46"
   },
   "TravelersTitles-1.20-Forge-4.0.2.jar": {
     "jarName": "TravelersTitles-1.20-Forge-4.0.2.jar",

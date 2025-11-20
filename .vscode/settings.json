@@ -1,0 +1,4 @@
+{
+    "editor.maxTokenizationLineLength": 200000,
+    "diffEditor.maxComputationTime": 0
+}
