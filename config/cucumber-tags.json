@@ -1,0 +1,15 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "forge:ingots/tungsten": "moremekanismprocessing:tungsten_ingot",
+  "forge:ingots/iridium": "moremekanismprocessing:iridium_ingot",
+  "forge:ingots/chrome": "null",
+  "forge:rubber": "productivetrees:cured_rubber",
+  "forge:silicon": "tinyredstone:silicon",
+  "forge:dusts/saltpeter": "scguns:niter_dust",
+  "forge:ingots/platinum": "moremekanismprocessing:platinum_ingot",
+  "forge:dusts/niter": "moremekanismprocessing:dust_niter",
+  "forge:ingots/graphite": "bigreactors:graphite_ingot",
+  "forge:ingots/titanium": "moremekanismprocessing:titanium_ingot",
+  "forge:ingots/mithril": "industrialupgrade:itemingots/mithril",
+  "forge:gems/peridot": "projectred_core:peridot"
+}
