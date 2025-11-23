@@ -9,6 +9,7 @@ saves
 rhino.local.properties
 resourcepacks/Quark Programmer Art.zip
 options.txt
+modernfix/structureCacheV1
 logs/**
 local/kubejs/dev.properties
 local/ftbultimine-client.snbt
@@ -22,6 +23,7 @@ journeymap/server
 journeymap/journeymap.log
 journeymap/data/sp
 journeymap/config
+emojiful/cache
 emi.json
 config/xaeropatreon.txt
 config/voicechat/username-cache.json
@@ -44,4 +46,4 @@ ESM/*
 .curseclient
 .cache/**
 !ESM/soundsMuffled.dat
-modernfix/structureCacheV1
+XaeroWaypoints_BACKUP*

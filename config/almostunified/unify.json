@@ -6,7 +6,15 @@
     "create",
     "thermal",
     "immersiveengineering",
-    "mekanism"
+    "mekanism",
+    "railcraft",
+    "industrialupgrade",
+    "refinedstorage",
+    "enderio",
+    "tinyredstone",
+    "mffs",
+    "ad_astra",
+    "tconstruct"
   ],
   "stoneStrata": [
     "stone",
@@ -29,7 +37,10 @@
     "forge:rods/{material}",
     "forge:wires/{material}",
     "forge:storage_blocks/{material}",
-    "forge:storage_blocks/raw_{material}"
+    "forge:storage_blocks/raw_{material}",
+    "forge:silicon",
+    "forge:rubber",
+    "forge:plastic"
   ],
   "materials": [
     "aeternium",
